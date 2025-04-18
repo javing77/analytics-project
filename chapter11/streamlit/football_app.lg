@@ -12,3 +12,4 @@ INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.git
 INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:matplotlib.font_manager:generated new fontManager
