@@ -1,0 +1,14 @@
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+ERROR:__main__:Exception ecountered: 'function' object has no attribute 'text'
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+ERROR:__main__:Exception ecountered: 'function' object has no attribute 'text'
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+ERROR:__main__:Exception ecountered: 'function' object has no attribute 'text'
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+ERROR:__main__:Exception ecountered: 'function' object has no attribute 'text'
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://zany-carnival-7vvp5w4jwjxfx5r9-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
